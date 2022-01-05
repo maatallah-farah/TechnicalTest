@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flaskapiserver",
+  "private_key_id": "1a70aab6d54a2027c74c37beb548542a5ff20020",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCubuGtGXva8R0N\nq1jl253Pr+9urnzdehOOXRT2uMZ6IWIrabJtFl0RoBmeHDtjUiG2IaF2EcSw9hNi\nECZUHu29b8BhTUZmnFSg8J+cCoiJZT7D6ks9H/8h1d0Mh/QTcF3VrlblNC4s8UST\ngmniEDx/H/RCd5+fR1z3KHI4uz8HIdvYAl0irtvF30++WL8CfFUMivOampdLkGAu\no+BfELnTfQTF6mks7uWfuViSPL425Pb6FOU51T3VrA7DwMaHG+PUNJC7BOfW8/Vy\n91KsS0zDxgx/esgzDsdA+lIEqsI7rFujGaseyHQ0ggo7dnfo7wJ33aJzp14xN735\nnBeL+at3AgMBAAECggEAAkn6NCdNdMYNN4y0EfAb1gnc/nrTsKRVdVzLVaF/GUMu\n4pr0eHH+rqiHLYf5T4hYYOd4EvCQwDG6d2L23cu6Gu5Ie/5jmh0bDzGZJpcMy6DE\nfhWo/xhYZL1FtVBjZ43l7VPoWAGjSXuxBq6DbTABWzm0HtsrARASrDufpBbw8Mr/\nZ2QSyjQovHDL6bLZTLF5ecmKufmA84W9Wg03Gckqk6FiD6b3A/AnAYpTo7WDEAUi\njZTTg27m2+k2xIgGqRFJDlVTiNP3VIRtrviUOiUuWM7ocWNdWaGTe5173YGelxf4\nfxpJ8x24bFirO9yz04vvyE3JLCONfyWd1BQ7I5mhIQKBgQDYJj1ilH380wLYXUwR\nF/G273jnAepmgQgtbw4p1vIdDftBaBTroFpfW1/OunXvwLoXMqZ3JGyB0YFNrxDI\ng8QLm1+086RNx+TZKsQvLwTzlHTG7NqSdfqHNDFPE3o9tvbs8jsf3HS5prXUdq09\nmePLApZrl8fR1HgxTM6mRFEaAwKBgQDOl7rN0l+fqcW84zRFRWZARKfsl23UzU2Y\nBRJkq8LSHaFokLqAQdBfqSmPMLx0tAZjI0zDvJQboCBuZzRmeAwy1BqNvgAbs3J5\nVdCMpoewtE1TxeIS6XRddngy3uMX8986k3aj2HQDww3SyGCKAuji2NR3xjmN8Kii\nyyXJcRqofQKBgQCeqpNtBevl50+zW+k2swjwbKGnkbRrQlSqZVdUR0C7K0RBIxIY\nVUGBtiWCL0XblPIFjVy9ILO2KABu8g+z4WXLz2ZWAnOd1Rqcf9Q7fpx34YZHcB6S\nXKBnF10K2xVksCZakQXtwXq9vS7Eo8lP6uNYZrHckTJRSVJhfixDyOpv2QKBgFco\nej4VUBRrKqpK7KWA5uecT4AoTsTlrKPDGARy1mmQ6KTV0mkD2yZQluD7Pba6sKso\nnF1D9PRGtQf+8IN+iB71jxJXo3IMXfJEuwxrwXlSSAFczckOxvIbZhCIKiTT1UzA\nI+ByFFf19aIEuX3gRmJV+iVh8qwoaOztac63sfh9AoGBAMCJ1J1a7fTaUZm2eBb7\n3oIC3aLaHq4Wmq+UxUGmgPYgxFlWzQCne92V/OCUgSB9G36PHqmxqeA5fcblDbSx\nPaoyxOTZMGdUmgTZEfkkrIcb7Doj6GQOfhtXZmUD/3iVWxlEZ8c5zBcsBoSp7Khy\n3IHXs210TlZ+8jPZb1dfOAHZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "farah-559@flaskapiserver.iam.gserviceaccount.com",
+  "client_id": "113447514831591454393",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/farah-559%40flaskapiserver.iam.gserviceaccount.com"
+}

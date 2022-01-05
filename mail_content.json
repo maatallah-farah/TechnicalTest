@@ -1,0 +1,6 @@
+{
+  "onlineTest" : { "subject" : "Online Test", "content" : "Thank you for applying to {project}." },
+  "reminderTest" : { "subject" : "Online Test Reminder", "content" : "You have not submitted your test. Everything okay?"},
+  "interviewMail" : { "subject" : "Interview Mail", "content" : "Congratulations for passing the test. You will have an interview with {name}"},
+  "refusalMail" : { "subject" : "Test Result", "content" : "We are sorry to tell you that you did not pass the test" }
+}
